@@ -1,0 +1,14 @@
+.nav-main {
+    @apply flex justify-between items-center py-5 
+}
+
+.nav-ul {
+    @apply flex  gap-10 font-medium
+}
+a {
+    color:black;
+
+}
+a.active{
+    @apply bg-gray-400 
+}
