@@ -1,0 +1,9 @@
+
+/* for main actor */
+.mainActorCard {
+    @apply     flex  flex-col  items-center py-3 md:py-2 md:justify-between
+}
+
+.actorCard {
+   @apply bg-gray-400   lg:w-[200px] lg:h-[200px] rounded-[50%] w-[170px] h-[170px] 
+}

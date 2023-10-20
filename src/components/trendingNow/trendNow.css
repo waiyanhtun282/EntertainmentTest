@@ -1,0 +1,3 @@
+.trendH1 {
+    @apply  lg:text-3xl font-semibold text-center lg:my-5 text-2xl my-3
+}

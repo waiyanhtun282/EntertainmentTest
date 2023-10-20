@@ -1,0 +1,12 @@
+/* for input form */
+.searchForm {
+    @apply bg-gray-200  rounded-sm  flex justify-between   ;
+  }
+  
+  .parentInputForm {
+    @apply flex items-center gap-2  lg:p-2  md:w-9/12 border-r-2 border-r-gray-500 p-1;
+  }
+  
+  .inputForm {
+    @apply bg-transparent md:w-[100%]  w-[80%]    outline-none p-2 text-[18px] md:placeholder:text-[20px] ;
+  }

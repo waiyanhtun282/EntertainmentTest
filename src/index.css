@@ -1,4 +1,10 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&family=Poppins:wght@200;400&family=Roboto+Condensed:wght@300;400&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
 /* for tailwind css */
 @tailwind base;
 @tailwind components;

@@ -1,0 +1,18 @@
+.bannerCard {
+    @apply bg-gray-200   lg:h-[350px] rounded-sm h-[250px]
+}
+
+.bannerFigCaption {
+    @apply absolute lg:top-[50%] lg:left-[47%] top-[40%] md:left-[47%]  left-[40%]
+}
+
+.bannerH3 {
+    @apply text-black  text-2xl font-semibold md:text-[20px]
+}
+.bannerSmall {
+    @apply absolute bottom-[10%] lg:left-[48%] flex gap-3 md:left-[47%] left-[40%]
+}
+
+.bannerP {
+    @apply w-3 h-3 rounded-[50%] bg-gray-400 md:w-2 md:h-2
+}
